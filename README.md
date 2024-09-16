@@ -1,3 +1,14 @@
+# Shopping Cart Web App
+This web app is a React-based project designed to simulate the shopping cart functionality of an e-commerce website. It includes features for adding items, subtracting items, and managing the cart. Users can view a subtotal amount for the cart.
+
+Key Features:
+Add and Subtract Items: Users can add or remove items from the cart.
+Subtotal Calculation: Automatically calculates the subtotal amount based on the items in the cart.
+Product Details: Includes images, prices, and other properties for each product, which are managed through a manual API.
+All functionalities are implemented using React.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
